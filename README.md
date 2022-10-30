@@ -35,7 +35,7 @@ Airbnb was built and tested in Ubuntu 14.04 LTS via Vagrant in VirtualBox. Progr
 ## Installation and execution 🔧
 ---
 * Clone the repository
-> $ git clone https://github.com/JoseR98/AirBnB_clone.git
+> $ git clone https://github.com/RaymanMoha/AirBnB_clone.git
 * Move in to the directory
 > $ cd AirBnB_clone
 * Execute the console file
