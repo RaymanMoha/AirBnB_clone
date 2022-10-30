@@ -1,11 +1,14 @@
 #!/usr/bin/python3
-"""This file contain the class State"""
+"""This file contain the class user"""
 
 from models.base_model import BaseModel
 
 
-class State(BaseModel):
+class User(BaseModel):
     """
-    State class that inherits from BaseModel class
+    User class that inherits from BaseModel class
     """
-    name = ""
+    email = ""
+    password = ""
+    first_name = ""
+    last_name = ""
